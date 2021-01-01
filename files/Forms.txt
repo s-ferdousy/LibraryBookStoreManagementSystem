@@ -1,0 +1,9 @@
+1. Form1
+1.1 Admin Dashboard
+1.2.1 Add new book
+1.2.2 Remove a book
+1.2.3 View Book list
+1.2.4 Update a book
+1.2 Manager Dashboard
+1.2.1 Add New Manager
+1.2.2 Remove a Manager

@@ -1,0 +1,26 @@
+Create user book_store_management identified by book_store_management;
+Grant dba to book_store_management;
+
+
+
+Create table userinfo
+(
+Id varchar(70),
+Password varchar(70)
+);
+insert into userinfo values('admin', 'admin');
+insert into userinfo values('manager', 'manager');
+
+
+
+Create table bookinfo
+(
+isbn Int,
+book_name varchar(30),
+writer_name varchar(20),
+book_category varchar(20),
+entry_date date,
+year_published int,
+book_qty int,
+primary key(isbn, book_name)
+)

@@ -1,0 +1,19 @@
+E:\VS\Library Book Store Management System 3\bin\Debug\Library Book Store Management System 3.exe.config
+E:\VS\Library Book Store Management System 3\bin\Debug\Library Book Store Management System 3.exe
+E:\VS\Library Book Store Management System 3\bin\Debug\Library Book Store Management System 3.pdb
+E:\VS\Library Book Store Management System 3\obj\Debug\Library Book Store Management System 3.csprojAssemblyReference.cache
+E:\VS\Library Book Store Management System 3\obj\Debug\Library_Book_Store_Management_System_3.Form1.resources
+E:\VS\Library Book Store Management System 3\obj\Debug\Library_Book_Store_Management_System_3.Properties.Resources.resources
+E:\VS\Library Book Store Management System 3\obj\Debug\Library Book Store Management System 3.csproj.GenerateResource.cache
+E:\VS\Library Book Store Management System 3\obj\Debug\Library Book Store Management System 3.csproj.CoreCompileInputs.cache
+E:\VS\Library Book Store Management System 3\obj\Debug\Library Book Store Management System 3.exe
+E:\VS\Library Book Store Management System 3\obj\Debug\Library Book Store Management System 3.pdb
+E:\VS\Library Book Store Management System 3\obj\Debug\Library_Book_Store_Management_System_3.AdminDashboard.resources
+E:\VS\Library Book Store Management System 3\obj\Debug\Library_Book_Store_Management_System_3.ManagerDashboard.resources
+E:\VS\Library Book Store Management System 3\obj\Debug\Library_Book_Store_Management_System_3.AddNewBook.resources
+E:\VS\Library Book Store Management System 3\obj\Debug\Library_Book_Store_Management_System_3.DeleteABook.resources
+E:\VS\Library Book Store Management System 3\obj\Debug\Library_Book_Store_Management_System_3.ViewBookList.resources
+E:\VS\Library Book Store Management System 3\obj\Debug\Library_Book_Store_Management_System_3.UpdateBookInfo.resources
+E:\VS\Library Book Store Management System 3\obj\Debug\Library_Book_Store_Management_System_3.AddNewManager.resources
+E:\VS\Library Book Store Management System 3\obj\Debug\Library_Book_Store_Management_System_3.RemoveAManager.resources
+E:\VS\Library Book Store Management System 3\obj\Debug\Library_Book_Store_Management_System_3.SearchBook.resources
